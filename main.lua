@@ -11,7 +11,7 @@ Turn on the flashlight.
 Returns boolean, true on success.
 
 
-flashlight.off(duration)
+flashlight.off()
 
 Turn off the flashlight.
 
